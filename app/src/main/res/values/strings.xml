@@ -2,4 +2,5 @@
     <string name="app_name">Editor de texto</string>
     <string name="etTextoIntroducidoHint">Escriba aquí</string>
     <string name="btBotonEnviarText">Enviar</string>
+    <string name="default_NombreFich">FicheroContenido</string>
 </resources>
